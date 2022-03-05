@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="Liu_Framework:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Liu_Framework_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Liu_Framework/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Liu_Framework" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
